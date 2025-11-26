@@ -16,3 +16,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 <img width="1261" height="693" alt="workflow" src="https://github.com/user-attachments/assets/54a015e9-3293-48cc-b0f2-c24677b8fa4e" />
 
+
+## Dashboard
+
+<img width="1459" height="797" alt="Screenshot 2025-11-26 212523" src="https://github.com/user-attachments/assets/61973a19-56cd-4a02-b82c-74bfa8f3be1c" />
+
+
